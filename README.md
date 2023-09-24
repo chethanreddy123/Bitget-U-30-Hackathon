@@ -1,5 +1,5 @@
 # Bitgit-U-30-Hackathon
-# hAIr (AI in HR) [Link](https://hair-axis.netlify.app/)
+# hAIr (AI in HR) [Link](https://hair-bitget.netlify.app/)
 
 ## Introduction
 Welcome to hAIr, an innovative HR Process Optimization application that leverages the power of Artificial Intelligence to streamline and enhance HR operations. This project combines advanced language processing (Large Language Models), logic, and machine learning techniques to redefine traditional HR processes and create a more efficient and effective hiring process.
@@ -17,7 +17,7 @@ Welcome to hAIr, an innovative HR Process Optimization application that leverage
 
 ## Getting Started
 1. Clone the repository and install the requirements
-2. Install the required dependencies using `npm install` from the front-end [link](https://github.com/SubhanuSRoy/hAIr).
+2. Install the required dependencies using `npm install` from the front-end [link](https://github.com/SubhanuSRoy/hair-bitget).
 3. Run the backend using FastAPI with `uvicorn MainRoutes:app --reload`.
 4. Start the frontend using `npm start`.
 
