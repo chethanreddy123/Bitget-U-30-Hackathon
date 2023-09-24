@@ -1,0 +1,225 @@
+{
+              "bi_grams": "[Branch Manager, Branch Operations, Regional Manager, Branch Manager, overall management, branch location, location including, financial performance, performance customer, customer service, employee development, Branch Manager, work closely, Regional Manager, daytoday operations, branch including, including staffing, staffing scheduling, cash management, implement marketing, marketing plans, attract new, new customers, grow sales, Provide excellent, excellent customer, customer service, customers resolving, resolving complaints, positive experience, financial goals, implement employee, employee training, training programs, Conduct performance, performance reviews, provide feedback, productive work, work environment, community events, business administration, related field, + years, management role, financial services, services industry, Strong leadership, interpersonal skills, Excellent communication, problemsolving skills, work independently, Microsoft Office, Office Suite, financial software, Competitive salary, talented team, positive impact, cover letter, email protected]",
+              "clean_data": "Branch Manager\n\nDepartment: Branch Operations\n\nReports To: Regional Manager\n\nSummary:\n\nThe Branch Manager is responsible for the overall management of a branch location including the financial performance customer service and employee development The Branch Manager will work closely with the Regional Manager to ensure that the branch is meeting all of its goals and objectives\n\nResponsibilities:\n\n Manage the daytoday operations of the branch including staffing scheduling and cash management\n Develop and implement marketing plans to attract new customers and grow sales\n Provide excellent customer service to all customers resolving complaints and ensuring that they have a positive experience\n Manage the branch's budget and ensure that it is in line with the company's financial goals\n Develop and implement employee training programs to improve the skills and knowledge of the branch's employees\n Conduct performance reviews of employees and provide feedback on their progress\n Create a positive and productive work environment for employees\n Represent the branch at community events and promote the company's brand\n\nQualifications:\n\n Bachelor's degree in business administration or a related field\n 5+ years of experience in a management role in the financial services industry\n Strong leadership and interpersonal skills\n Excellent communication and problemsolving skills\n Ability to work independently and as part of a team\n Proficiency in Microsoft Office Suite and other financial software\n\nBenefits:\n\n Competitive salary and benefits\n Opportunity to work with a talented team of professionals\n Chance to make a positive impact on the community\n\nTo Apply:\n\nPlease submit your resume and cover letter to [email protected",
+              "emails": [],
+              "entities": [
+                            "Department Branch Operations",
+                            "Microsoft Office",
+                            "Regional"
+              ],
+              "experience": "Summary \n\n The Branch Manager is responsible for the overall management of a branch location including the financial performance customer service and employee development The Branch Manager will work closely with the Regional Manager to ensure that the branch is meeting all of its goals and objectives \n\n Responsibilities \n\n  Manage the daytoday operations of the branch including staffing scheduling and cash management \n  Develop and implement marketing plans to attract new customers and grow sales \n  Provide excellent customer service to all customers resolving complaints and ensuring that they have a positive experience \n  Manage the branch 's budget and ensure that it is in line with the company 's financial goals \n  Develop and implement employee training programs to improve the skills and knowledge of the branch 's employees \n  Conduct performance reviews of employees and provide feedback on their progress \n  Create a positive and productive work environment for employees \n  Represent the branch at community events and promote the company 's brand \n\n Qualifications \n\n  Bachelor 's degree in business administration or a related field \n  5 + years of experience in a management role in the financial services industry \n  Strong leadership and interpersonal skills \n  Excellent communication and problemsolving skills \n  Ability to work independently and as part of a team \n  Proficiency in Microsoft Office Suite and other financial software \n\n Benefits \n\n  Competitive salary and benefits \n  Opportunity to work with a talented team of professionals \n  Chance to make a positive impact on the community \n\n To Apply \n\n Please submit your resume and cover letter to [ email protected",
+              "extracted_keywords": [
+                            "Branch",
+                            "Manager",
+                            "Department",
+                            "Branch",
+                            "Operations",
+                            "Regional",
+                            "Manager",
+                            "Summary",
+                            "Branch",
+                            "Manager",
+                            "management",
+                            "branch",
+                            "location",
+                            "performance",
+                            "customer",
+                            "service",
+                            "employee",
+                            "development",
+                            "Branch",
+                            "Manager",
+                            "Regional",
+                            "Manager",
+                            "branch",
+                            "goals",
+                            "objectives",
+                            "Responsibilities",
+                            "daytoday",
+                            "operations",
+                            "branch",
+                            "scheduling",
+                            "cash",
+                            "management",
+                            "Develop",
+                            "marketing",
+                            "plans",
+                            "customers",
+                            "sales",
+                            "customer",
+                            "service",
+                            "customers",
+                            "complaints",
+                            "experience",
+                            "branch",
+                            "budget",
+                            "line",
+                            "company",
+                            "goals",
+                            "Develop",
+                            "employee",
+                            "training",
+                            "programs",
+                            "skills",
+                            "knowledge",
+                            "branch",
+                            "employees",
+                            "Conduct",
+                            "performance",
+                            "reviews",
+                            "employees",
+                            "feedback",
+                            "progress",
+                            "work",
+                            "environment",
+                            "employees",
+                            "branch",
+                            "community",
+                            "events",
+                            "company",
+                            "brand",
+                            "Qualifications",
+                            "Bachelor",
+                            "degree",
+                            "business",
+                            "administration",
+                            "field",
+                            "years",
+                            "experience",
+                            "management",
+                            "role",
+                            "services",
+                            "industry",
+                            "leadership",
+                            "skills",
+                            "communication",
+                            "skills",
+                            "Ability",
+                            "part",
+                            "team",
+                            "Proficiency",
+                            "Microsoft",
+                            "Office",
+                            "Suite",
+                            "software",
+                            "Benefits",
+                            "salary",
+                            "benefits",
+                            "Opportunity",
+                            "team",
+                            "professionals",
+                            "Chance",
+                            "impact",
+                            "community",
+                            "resume",
+                            "letter",
+                            "email"
+              ],
+              "keyterms": [
+                            [
+                                          "Branch Manager",
+                                          0.24171076203139033
+                            ],
+                            [
+                                          "customer service",
+                                          0.11131745194641694
+                            ],
+                            [
+                                          "Regional Manager",
+                                          0.08869023098444145
+                            ],
+                            [
+                                          "Branch Operations",
+                                          0.03742461481573231
+                            ],
+                            [
+                                          "employee development",
+                                          0.03231782897039869
+                            ],
+                            [
+                                          "overall management",
+                                          0.02741338704940066
+                            ],
+                            [
+                                          "performance customer",
+                                          0.026571909066449916
+                            ],
+                            [
+                                          "branch location",
+                                          0.02626229205891772
+                            ],
+                            [
+                                          "excellent customer",
+                                          0.025822474703259088
+                            ],
+                            [
+                                          "financial performance",
+                                          0.025348088549868763
+                            ],
+                            [
+                                          "new customer",
+                                          0.024982277272365308
+                            ],
+                            [
+                                          "positive experience",
+                                          0.023338954635149328
+                            ],
+                            [
+                                          "marketing plan",
+                                          0.02282227085714627
+                            ],
+                            [
+                                          "cash management",
+                                          0.02195025426323622
+                            ],
+                            [
+                                          "staffing scheduling",
+                                          0.019848408691399623
+                            ],
+                            [
+                                          "daytoday operation",
+                                          0.01894105783116101
+                            ],
+                            [
+                                          "skill",
+                                          0.005445454749436368
+                            ],
+                            [
+                                          "goal",
+                                          0.004987020221253795
+                            ],
+                            [
+                                          "community",
+                                          0.004528393139120795
+                            ],
+                            [
+                                          "Develop",
+                                          0.004313698431559569
+                            ]
+              ],
+              "name": [],
+              "phones": [],
+              "pos_frequencies": {
+                            "ADJ": 19,
+                            "ADP": 23,
+                            "ADV": 2,
+                            "AUX": 4,
+                            "CCONJ": 19,
+                            "DET": 25,
+                            "INTJ": 1,
+                            "NOUN": 83,
+                            "NUM": 2,
+                            "PART": 12,
+                            "PRON": 6,
+                            "PROPN": 25,
+                            "PUNCT": 7,
+                            "SCONJ": 4,
+                            "SPACE": 26,
+                            "VERB": 29,
+                            "X": 1
+              },
+              "resume_data": "**Branch Manager**\n\n**Department:** Branch Operations\n\n**Reports To:** Regional Manager\n\n**Summary:**\n\nThe Branch Manager is responsible for the overall management of a branch location, including the financial performance, customer service, and employee development. The Branch Manager will work closely with the Regional Manager to ensure that the branch is meeting all of its goals and objectives.\n\n**Responsibilities:**\n\n* Manage the day-to-day operations of the branch, including staffing, scheduling, and cash management.\n* Develop and implement marketing plans to attract new customers and grow sales.\n* Provide excellent customer service to all customers, resolving complaints and ensuring that they have a positive experience.\n* Manage the branch's budget and ensure that it is in line with the company's financial goals.\n* Develop and implement employee training programs to improve the skills and knowledge of the branch's employees.\n* Conduct performance reviews of employees and provide feedback on their progress.\n* Create a positive and productive work environment for employees.\n* Represent the branch at community events and promote the company's brand.\n\n**Qualifications:**\n\n* Bachelor's degree in business administration or a related field.\n* 5+ years of experience in a management role in the financial services industry.\n* Strong leadership and interpersonal skills.\n* Excellent communication and problem-solving skills.\n* Ability to work independently and as part of a team.\n* Proficiency in Microsoft Office Suite and other financial software.\n\n**Benefits:**\n\n* Competitive salary and benefits.\n* Opportunity to work with a talented team of professionals.\n* Chance to make a positive impact on the community.\n\n**To Apply:**\n\nPlease submit your resume and cover letter to [email protected]",
+              "tri_grams": "[Manager is responsible, branch location including, including the financial, financial performance customer, performance customer service, service and employee, development The Branch, Manager will work, Manager to ensure, branch is meeting, goals and objectives, Manage the daytoday, branch including staffing, including staffing scheduling, scheduling and cash, Develop and implement, implement marketing plans, plans to attract, attract new customers, customers and grow, Provide excellent customer, excellent customer service, customers resolving complaints, complaints and ensuring, Manage the branch, branch's budget, budget and ensure, company's financial, Develop and implement, implement employee training, employee training programs, programs to improve, improve the skills, skills and knowledge, branch's employees, Conduct performance reviews, reviews of employees, employees and provide, Create a positive, positive and productive, productive work environment, environment for employees, Represent the branch, branch at community, events and promote, promote the company, company's brand, Bachelor's degree, degree in business, years of experience, financial services industry, leadership and interpersonal, communication and problemsolving, Ability to work, Proficiency in Microsoft, Microsoft Office Suite, salary and benefits, Opportunity to work, team of professionals, submit your resume, resume and cover]",
+              "unique_id": "313280d8-06ab-47ca-b2a4-9ba7094877db",
+              "years": []
+}

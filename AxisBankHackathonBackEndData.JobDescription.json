@@ -1,0 +1,1189 @@
+[{
+  "_id": {
+    "$oid": "64d3cdc84ed7995a6d5e145f"
+  },
+  "bi_grams": "[Branch Manager, overall management, branch location, location including, operational aspects, distribution operations, operations customer, customer service, service human, human resources, resources administration, Branch Manager, developing forecasts, forecasts financial, financial objectives, business plans, plans meeting, meeting goals, metrics managing, allocating funds, funds appropriately, providing training, training coaching, coaching development, motivation Additionally, Branch Manager, identifying areas, proposing corrective, corrective actions, meet challenges, leverage growth, growth opportunities, opportunities sharing, sharing knowledge, effective practices, practices competitive, competitive intelligence, intelligence business, business opportunities, needs addressing, addressing customer, employee satisfaction, satisfaction issues, issues promptly, promptly adhering, high ethical, ethical standards, applicable laws, laws networking, staying abreast, competing markets, providing reports, market movement, Proven branch, branch management, management experience, Bank Manager, similar role, Sufficient knowledge, modern management, management techniques, best practices, meet sales, sales targets, production goals, Excellent organizational, organizational skills, Results driven, customer focused, human resources, resources management, management skills, Business Administration, related field]",
+  "clean_data": "The Branch Manager is responsible for the overall management of a branch location including all operational aspects such as distribution operations customer service human resources administration and sales The Branch Manager will also be responsible for developing forecasts financial objectives and business plans meeting goals and metrics managing the budget and allocating funds appropriately and bringing out the best of the branch's personnel by providing training coaching development and motivation Additionally the Branch Manager will be responsible for identifying areas of improvement and proposing corrective actions that meet challenges and leverage growth opportunities sharing knowledge with other branches and headquarters on effective practices competitive intelligence business opportunities and needs addressing customer and employee satisfaction issues promptly adhering to high ethical standards and complying with all regulations/applicable laws networking to improve the presence and reputation of the branch and company and staying abreast of competing markets and providing reports on market movement and penetration\n\nRequirements and skills\n\n Proven branch management experience as a Bank Manager or similar role\n Sufficient knowledge of modern management techniques and best practices\n Ability to meet sales targets and production goals\n Familiarity with industry's rules and regulations\n Excellent organizational skills\n Results driven and customer focused\n Leadership and human resources management skills\n BS in Business Administration or related field",
+  "emails": [],
+  "entities": [
+    "Branch",
+    "Bank",
+    "BS in Business Administration"
+  ],
+  "experience": "",
+  "extracted_keywords": [
+    "Branch",
+    "Manager",
+    "management",
+    "branch",
+    "location",
+    "aspects",
+    "distribution",
+    "operations",
+    "customer",
+    "service",
+    "human",
+    "resources",
+    "administration",
+    "sales",
+    "Branch",
+    "Manager",
+    "forecasts",
+    "objectives",
+    "business",
+    "plans",
+    "goals",
+    "metrics",
+    "budget",
+    "funds",
+    "branch",
+    "personnel",
+    "training",
+    "development",
+    "motivation",
+    "Additionally",
+    "Branch",
+    "Manager",
+    "areas",
+    "improvement",
+    "actions",
+    "challenges",
+    "leverage",
+    "growth",
+    "opportunities",
+    "knowledge",
+    "branches",
+    "headquarters",
+    "practices",
+    "intelligence",
+    "business",
+    "opportunities",
+    "customer",
+    "employee",
+    "satisfaction",
+    "issues",
+    "standards",
+    "regulations",
+    "laws",
+    "presence",
+    "reputation",
+    "branch",
+    "company",
+    "markets",
+    "reports",
+    "market",
+    "movement",
+    "penetration",
+    "Requirements",
+    "skills",
+    "branch",
+    "management",
+    "experience",
+    "Bank",
+    "Manager",
+    "role",
+    "knowledge",
+    "management",
+    "techniques",
+    "practices",
+    "Ability",
+    "sales",
+    "targets",
+    "production",
+    "goals",
+    "Familiarity",
+    "industry",
+    "rules",
+    "regulations",
+    "Excellent",
+    "skills",
+    "Results",
+    "customer",
+    "Leadership",
+    "resources",
+    "management",
+    "BS",
+    "Business",
+    "Administration",
+    "field"
+  ],
+  "keyterms": [
+    [
+      "Branch Manager",
+      0.28386104539324303
+    ],
+    [
+      "human resource",
+      0.05833569858921284
+    ],
+    [
+      "resource administration",
+      0.047479417275854474
+    ],
+    [
+      "financial objective",
+      0.039174395328257595
+    ],
+    [
+      "service human",
+      0.03803688523679512
+    ],
+    [
+      "meeting goal",
+      0.03786679642469368
+    ],
+    [
+      "overall management",
+      0.03782163761719423
+    ],
+    [
+      "customer service",
+      0.03531078422247308
+    ],
+    [
+      "forecast financial",
+      0.03525145260429484
+    ],
+    [
+      "branch location",
+      0.0343818526316603
+    ],
+    [
+      "operation customer",
+      0.032945088894556544
+    ],
+    [
+      "operational aspect",
+      0.032216616921464
+    ],
+    [
+      "distribution operation",
+      0.030729330273221063
+    ],
+    [
+      "training coaching",
+      0.025129723011010185
+    ],
+    [
+      "responsible",
+      0.01106536579694261
+    ],
+    [
+      "sale",
+      0.008220812734716922
+    ],
+    [
+      "good",
+      0.006023914858808335
+    ],
+    [
+      "business",
+      0.005739294241109456
+    ],
+    [
+      "knowledge",
+      0.004392316498726859
+    ],
+    [
+      "practice",
+      0.0042344916111499604
+    ]
+  ],
+  "name": [],
+  "phones": [],
+  "pos_frequencies": {
+    "ADJ": 24,
+    "ADP": 20,
+    "ADV": 4,
+    "AUX": 5,
+    "CCONJ": 25,
+    "DET": 13,
+    "NOUN": 80,
+    "PART": 4,
+    "PRON": 1,
+    "PROPN": 13,
+    "SPACE": 9,
+    "SYM": 1,
+    "VERB": 25
+  },
+  "resume_data": "The Branch Manager is responsible for the overall management of a branch location, including all operational aspects such as distribution operations, customer service, human resources, administration, and sales. The Branch Manager will also be responsible for developing forecasts, financial objectives, and business plans; meeting goals and metrics; managing the budget and allocating funds appropriately; and bringing out the best of the branch's personnel by providing training, coaching, development, and motivation. Additionally, the Branch Manager will be responsible for identifying areas of improvement and proposing corrective actions that meet challenges and leverage growth opportunities; sharing knowledge with other branches and headquarters on effective practices, competitive intelligence, business opportunities, and needs; addressing customer and employee satisfaction issues promptly; adhering to high ethical standards and complying with all regulations/applicable laws; networking to improve the presence and reputation of the branch and company; and staying abreast of competing markets and providing reports on market movement and penetration.\n\nRequirements and skills:\n\n* Proven branch management experience, as a Bank Manager or similar role\n* Sufficient knowledge of modern management techniques and best practices\n* Ability to meet sales targets and production goals\n* Familiarity with industry's rules and regulations\n* Excellent organizational skills\n* Results driven and customer focused\n* Leadership and human resources management skills\n* BS in Business Administration or related field",
+  "tri_grams": "[Manager is responsible, branch location including, including all operational, distribution operations customer, operations customer service, customer service human, service human resources, human resources administration, administration and sales, sales The Branch, responsible for developing, developing forecasts financial, forecasts financial objectives, objectives and business, business plans meeting, plans meeting goals, goals and metrics, managing the budget, budget and allocating, allocating funds appropriately, appropriately and bringing, branch's personnel, personnel by providing, providing training coaching, training coaching development, development and motivation, Additionally the Branch, responsible for identifying, areas of improvement, improvement and proposing, proposing corrective actions, actions that meet, challenges and leverage, leverage growth opportunities, growth opportunities sharing, opportunities sharing knowledge, branches and headquarters, headquarters on effective, effective practices competitive, practices competitive intelligence, competitive intelligence business, intelligence business opportunities, opportunities and needs, needs addressing customer, customer and employee, employee satisfaction issues, satisfaction issues promptly, issues promptly adhering, adhering to high, high ethical standards, standards and complying, applicable laws networking, networking to improve, improve the presence, presence and reputation, branch and company, company and staying, abreast of competing, markets and providing, reports on market, movement and penetration, Requirements and skills, Proven branch management, branch management experience, Manager or similar, knowledge of modern, modern management techniques, techniques and best, Ability to meet, meet sales targets, targets and production, Familiarity with industry, industry's rules, rules and regulations, Excellent organizational skills, driven and customer, Leadership and human, human resources management, resources management skills, BS in Business, Administration or related]",
+  "unique_id": "6fab63e0-16a9-4450-bf48-3f8070c666a0",
+  "years": [],
+  "JobId": "AXIS208365",
+  "JobTitle": "Branch Manager"
+},
+{
+  "_id": {
+    "$oid": "64d3d6d2b30b65812d5e145f"
+  },
+  "bi_grams": "[Relationship Manager, maintaining relationships, key accounts, growing relationships, drive new, new business, provide account, account management, existing customers, customers identify, resolve customer, customer issues, concerns manage, sales process, lead generation, achieve sales, sales targets, strong understanding, financial services, services industry, proven track, track record, build relationships, clients develop, develop trust, provide excellent, excellent customer, customer service, specific skills, Strong sales, sales skills, Excellent communication, interpersonal skills, build relationships, develop trust, provide excellent, excellent customer, customer service, financial services, services industry, Proven track, track record, rewarding career, financial services, services industry, great opportunity, growing team, real difference]",
+  "clean_data": "As a Relationship Manager you will be responsible for developing and maintaining relationships with key accounts You will also be responsible for cultivating and growing relationships with prospects to drive new business In addition you will provide account management and support to existing customers identify and resolve customer issues and concerns manage the sales process from lead generation to close and achieve sales targets and quotas\n\nTo be successful in this role you will need to have a strong understanding of the financial services industry and a proven track record of success in sales You will also need to be able to build relationships with clients develop trust and provide excellent customer service\n\nHere are some of the specific skills and qualifications you will need for this role\n\n Strong sales skills\n Excellent communication and interpersonal skills\n Ability to build relationships with clients and develop trust\n Ability to provide excellent customer service\n Knowledge of the financial services industry\n Proven track record of success in sales\n\nIf you are interested in a challenging and rewarding career in the financial services industry this is a great opportunity to join a growing team and make a real difference",
+  "emails": [],
+  "entities": [],
+  "experience": "",
+  "extracted_keywords": [
+    "Relationship",
+    "Manager",
+    "relationships",
+    "accounts",
+    "relationships",
+    "prospects",
+    "business",
+    "addition",
+    "account",
+    "management",
+    "support",
+    "customers",
+    "customer",
+    "issues",
+    "concerns",
+    "sales",
+    "process",
+    "generation",
+    "sales",
+    "targets",
+    "quotas",
+    "role",
+    "understanding",
+    "services",
+    "industry",
+    "track",
+    "record",
+    "success",
+    "sales",
+    "relationships",
+    "clients",
+    "trust",
+    "customer",
+    "service",
+    "skills",
+    "qualifications",
+    "role",
+    "sales",
+    "skills",
+    "communication",
+    "skills",
+    "Ability",
+    "relationships",
+    "clients",
+    "trust",
+    "Ability",
+    "customer",
+    "service",
+    "Knowledge",
+    "services",
+    "industry",
+    "track",
+    "record",
+    "success",
+    "sales",
+    "career",
+    "services",
+    "industry",
+    "opportunity",
+    "team",
+    "difference"
+  ],
+  "keyterms": [
+    [
+      "financial service industry",
+      0.38294900652660396
+    ],
+    [
+      "excellent customer service",
+      0.21636217488814652
+    ],
+    [
+      "strong sale skill",
+      0.08678862094053401
+    ],
+    [
+      "track record",
+      0.03043511072086505
+    ],
+    [
+      "relationship",
+      0.0185279358079963
+    ],
+    [
+      "sale target",
+      0.017609559150080053
+    ],
+    [
+      "lead generation",
+      0.016167044886260702
+    ],
+    [
+      "strong understanding",
+      0.01569721701059025
+    ],
+    [
+      "sale process",
+      0.014042003172436934
+    ],
+    [
+      "customer issue",
+      0.013010663521659914
+    ],
+    [
+      "account management",
+      0.01285502109164541
+    ],
+    [
+      "Relationship Manager",
+      0.01231872407811025
+    ],
+    [
+      "key account",
+      0.012310156244449293
+    ],
+    [
+      "specific skill",
+      0.012077456959884833
+    ],
+    [
+      "new business",
+      0.011937949328614032
+    ],
+    [
+      "interpersonal skill",
+      0.010866174323304332
+    ],
+    [
+      "excellent communication",
+      0.010452708538874273
+    ],
+    [
+      "responsible",
+      0.008063774965263643
+    ],
+    [
+      "role",
+      0.006696856555967714
+    ],
+    [
+      "rewarding career",
+      0.00569901885666514
+    ]
+  ],
+  "name": [],
+  "phones": [],
+  "pos_frequencies": {
+    "ADJ": 22,
+    "ADP": 21,
+    "ADV": 3,
+    "AUX": 13,
+    "CCONJ": 14,
+    "DET": 14,
+    "NOUN": 58,
+    "PART": 9,
+    "PRON": 9,
+    "PROPN": 3,
+    "SCONJ": 1,
+    "SPACE": 9,
+    "VERB": 27
+  },
+  "resume_data": "As a Relationship Manager, you will be responsible for developing and maintaining relationships with key accounts. You will also be responsible for cultivating and growing relationships with prospects to drive new business. In addition, you will provide account management and support to existing customers, identify and resolve customer issues and concerns, manage the sales process from lead generation to close, and achieve sales targets and quotas.\n\nTo be successful in this role, you will need to have a strong understanding of the financial services industry and a proven track record of success in sales. You will also need to be able to build relationships with clients, develop trust, and provide excellent customer service.\n\nHere are some of the specific skills and qualifications you will need for this role:\n\n* Strong sales skills\n* Excellent communication and interpersonal skills\n* Ability to build relationships with clients and develop trust\n* Ability to provide excellent customer service\n* Knowledge of the financial services industry\n* Proven track record of success in sales\n\nIf you are interested in a challenging and rewarding career in the financial services industry, this is a great opportunity to join a growing team and make a real difference.",
+  "tri_grams": "[responsible for developing, developing and maintaining, relationships with key, responsible for cultivating, cultivating and growing, relationships with prospects, prospects to drive, drive new business, business In addition, provide account management, management and support, support to existing, existing customers identify, identify and resolve, resolve customer issues, issues and concerns, manage the sales, process from lead, generation to close, close and achieve, achieve sales targets, targets and quotas, financial services industry, proven track record, record of success, success in sales, able to build, relationships with clients, clients develop trust, trust and provide, provide excellent customer, excellent customer service, skills and qualifications, Strong sales skills, communication and interpersonal, Ability to build, relationships with clients, clients and develop, Ability to provide, provide excellent customer, excellent customer service, financial services industry, Proven track record, record of success, success in sales, challenging and rewarding, financial services industry, opportunity to join, join a growing]",
+  "unique_id": "52c92a8d-df38-4d02-bb7a-c390268cae21",
+  "years": [],
+  "JobId": "AXIS715533",
+  "JobTitle": "Relationship Manager"
+},
+{
+  "_id": {
+    "$oid": "64d605e58f4451aeed312f7d"
+  },
+  "bi_grams": "[solve business, business challenges, innovative technology, enjoy working, cuttingedge scalable, scalable services, services technology, team environment, like working, industrydefining projects, best minds, intense focus, beloved brands, customer obsession, company DNA, interns write, write real, real software, selected group, experienced software, software development, development engineers, help interns, feel welcomed, welcomed included, valued right, exciting new, new challenges, challenges developing, developing new, new skills, achieving personal, personal growth, work changes, define tomorrow, different internship, internship durations, durations available, months internship, months internship, application process, Key job, job responsibilities, experienced crossdisciplinary, crossdisciplinary Amazonians, conceive design, market innovative, innovative products, build innovative, innovative technologies, large distributed, distributed computing, computing environment, help lead, lead fundamental, fundamental changes, Create solutions, run predictions, distributed systems, innovative technologies, incredible scale, Build distributed, distributed storage, storage index, query systems, scalable faulttolerant, faulttolerant low, low cost, agile environment, deliver high, high quality, quality software, Amazon technology, lead mission, mission critical, critical projects, projects early, design code, raw smarts, complex technical, technical challenges, distributed systems, systems data, data mining, mining automation, automation optimisation, optimisation scalability, impactful project, professional development, development expand, realworld setting, technologies overlap, hard pressed, Amazon Web, Web Services, Services AWS, AWS touching, iterating services, better personalise, impossible possible, hiring candidates, following locations, London GBR, BASIC QUALIFICATIONS, Currently enrolled, Computer Science, Science Computer, Computer Engineering, related fields, specific programming, programming language, Java C, Computer Science, Science fundamentals, objectoriented design, design algorithm, algorithm design, design data, data structures, structures problem, problem solving, complexity analysis, PREFERRED QUALIFICATIONS, Previous technical, technical internships, distributed multitiered, multitiered systems, systems algorithms, relational databases, optimization mathematics, linear programming, nonlinear optimisation, effectively articulate, articulate technical, technical challenges, handling ambiguous, undefined problems, think abstractly, equal opportunities, opportunities employer, believe passionately, diverse workforce, recruiting decisions, decisions based, discover invent, invent simplify, build Protecting, Privacy Notice, collect use, personal data, inclusive culture, culture empowers, empowers Amazonians, best results, hiring process, process including, including support, onboarding process, ApplicantCandidate Accommodation, Accommodation Team, Team ACAT, ACAT Monday, pm GMT, calling directly, United Kingdom]",
+  "clean_data": "\nDESCRIPTION\nDo you want to solve business challenges through innovative technology Do you enjoy working on cuttingedge scalable services technology in a team environment Do you like working on industrydefining projects that move the needle\n\nAt Amazon we hire the best minds in technology to innovate and build on behalf of our customers The intense focus we have on our customers is why we are one of the world’s most beloved brands  customer obsession is part of our company DNA Our interns write real software and collaborate with a selected group of experienced software development engineers who help interns on projects that matter to our customers\n\nWe want to you to feel welcomed included and valued right from the start Every day will be filled with exciting new challenges developing new skills and achieving personal growth How often can you say that your work changes the world At Amazon you’ll say it often Join us and define tomorrow\n\nWe have two different internship durations available\n 3 months internship\n 6 months internship\n\nPlease ensure to indicate your availability during the application process\n\n\nKey job responsibilities\n Collaborate with experienced crossdisciplinary Amazonians to conceive design and bring to market innovative products and services\n Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry\n Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed\n Build distributed storage index and query systems that are scalable faulttolerant low cost and easy to manage/use\n Work in an agile environment to deliver high quality software\n\n\nA day in the life\nAs an intern you will be matched to a manager and a mentor You will have the opportunity to influence the evolution of Amazon technology and lead mission critical projects early in your career Your design code and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems data mining automation optimisation scalability and security  just to name a few\n\nIn addition to working on an impactful project you will have the opportunity to engage with Amazonians for both personal and professional development expand your network and participate in activities with other interns throughout your internship No matter the location of your internship we give you the tools to own your project and learn in a realworld setting Many of our technologies overlap and you would be hard pressed to find a team that is not using Amazon Web Services AWS touching the catalogue or iterating services to better personalise for customers We make the impossible possible\n\nWe are open to hiring candidates to work out of one of the following locations\n\nLondon GBR\n\nBASIC QUALIFICATIONS\n Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science Computer Engineering or related fields at time of application\n Although no specific programming language is required  you should be familiar with the syntax of languages such as Java C/C++ or Python\n Knowledge of Computer Science fundamentals such as objectoriented design algorithm design data structures problem solving and complexity analysis\n\nPREFERRED QUALIFICATIONS\n Previous technical internships if applicable\n Experience with distributed multitiered systems algorithms and relational databases\n Experience in optimization mathematics such as linear programming and nonlinear optimisation\n Ability to effectively articulate technical challenges and solutions\n Adept at handling ambiguous or undefined problems as well as ability to think abstractly\n\n\nAmazon is an equal opportunities employer We believe passionately that employing a diverse workforce is central to our success We make recruiting decisions based on your experience and skills We value your passion to discover invent simplify and build Protecting your privacy and the security of your data is a longstanding top priority for Amazon Please consult our Privacy Notice  to know more about how we collect use and transfer the personal data of our candidates\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers If you have a disability and need an adjustment during the application and hiring process including support for the interview or onboarding process please contact the ApplicantCandidate Accommodation Team ACAT Monday through Friday from 700 am GMT  400 pm GMT If calling directly from the United Kingdom please dial +44  tel+84 If calling from Ireland please dial +353 1800 851 489 tel+489\n\n",
+  "emails": [],
+  "entities": [
+    "United Kingdom",
+    "Amazon Web Services AWS",
+    "Amazon Please",
+    "linear",
+    "Ireland",
+    "Amazon",
+    "London",
+    "GMT"
+  ],
+  "experience": "Experience with distributed multitiered systems algorithms and relational databases \n  Experience in optimization mathematics such as linear programming and nonlinear optimisation \n  Ability to effectively articulate technical challenges and solutions \n  Adept at handling ambiguous or undefined problems as well as ability to think abstractly \n\n\n Amazon is an equal opportunities employer We believe passionately that employing a diverse workforce is central to our success We make recruiting decisions based on your experience and skills We value your passion to discover invent simplify and build Protecting your privacy and the security of your data is a longstanding top priority for Amazon Please consult our Privacy Notice   to know more about how we collect use and transfer the personal data of our candidates \n\n Our inclusive culture empowers Amazonians to deliver the best results for our customers If you have a disability and need an adjustment during the application and hiring process including support for the interview or onboarding process please contact the ApplicantCandidate Accommodation Team ACAT Monday through Friday from 700 am GMT   400 pm GMT If calling directly from the United Kingdom please dial +44    If calling from Ireland please dial +353 1800 851 489 tel+489 \n\n",
+  "extracted_keywords": [
+    "DESCRIPTION",
+    "business",
+    "challenges",
+    "technology",
+    "cuttingedge",
+    "services",
+    "technology",
+    "team",
+    "environment",
+    "projects",
+    "needle",
+    "Amazon",
+    "minds",
+    "technology",
+    "behalf",
+    "customers",
+    "focus",
+    "customers",
+    "world",
+    "brands",
+    "customer",
+    "obsession",
+    "part",
+    "company",
+    "DNA",
+    "interns",
+    "software",
+    "group",
+    "software",
+    "development",
+    "engineers",
+    "interns",
+    "projects",
+    "customers",
+    "start",
+    "day",
+    "challenges",
+    "skills",
+    "growth",
+    "work",
+    "world",
+    "Amazon",
+    "tomorrow",
+    "internship",
+    "durations",
+    "months",
+    "internship",
+    "months",
+    "internship",
+    "availability",
+    "application",
+    "process",
+    "job",
+    "responsibilities",
+    "Amazonians",
+    "design",
+    "market",
+    "products",
+    "services",
+    "Design",
+    "technologies",
+    "computing",
+    "environment",
+    "changes",
+    "industry",
+    "solutions",
+    "predictions",
+    "systems",
+    "exposure",
+    "technologies",
+    "scale",
+    "speed",
+    "Build",
+    "storage",
+    "index",
+    "query",
+    "systems",
+    "cost",
+    "use",
+    "Work",
+    "environment",
+    "quality",
+    "software",
+    "day",
+    "life",
+    "intern",
+    "manager",
+    "mentor",
+    "opportunity",
+    "evolution",
+    "Amazon",
+    "technology",
+    "lead",
+    "mission",
+    "projects",
+    "career",
+    "design",
+    "code",
+    "smarts",
+    "challenges",
+    "areas",
+    "systems",
+    "data",
+    "mining",
+    "automation",
+    "optimisation",
+    "scalability",
+    "security",
+    "addition",
+    "project",
+    "opportunity",
+    "Amazonians",
+    "development",
+    "network",
+    "activities",
+    "interns",
+    "internship",
+    "matter",
+    "location",
+    "internship",
+    "tools",
+    "project",
+    "realworld",
+    "technologies",
+    "overlap",
+    "team",
+    "Amazon",
+    "Web",
+    "Services",
+    "AWS",
+    "catalogue",
+    "iterating",
+    "services",
+    "personalise",
+    "customers",
+    "candidates",
+    "locations",
+    "London",
+    "GBR",
+    "BASIC",
+    "QUALIFICATIONS",
+    "Bachelor",
+    "Master",
+    "Degree",
+    "Computer",
+    "Science",
+    "Computer",
+    "Engineering",
+    "fields",
+    "time",
+    "application",
+    "programming",
+    "language",
+    "syntax",
+    "languages",
+    "Java",
+    "C",
+    "C++",
+    "Python",
+    "Knowledge",
+    "Computer",
+    "Science",
+    "fundamentals",
+    "design",
+    "algorithm",
+    "design",
+    "data",
+    "structures",
+    "problem",
+    "complexity",
+    "analysis",
+    "QUALIFICATIONS",
+    "internships",
+    "Experience",
+    "systems",
+    "algorithms",
+    "databases",
+    "Experience",
+    "optimization",
+    "mathematics",
+    "programming",
+    "optimisation",
+    "Ability",
+    "challenges",
+    "solutions",
+    "Adept",
+    "problems",
+    "ability",
+    "Amazon",
+    "opportunities",
+    "employer",
+    "workforce",
+    "success",
+    "recruiting",
+    "decisions",
+    "experience",
+    "skills",
+    "passion",
+    "invent",
+    "simplify",
+    "privacy",
+    "security",
+    "data",
+    "priority",
+    "Amazon",
+    "Privacy",
+    "Notice",
+    "use",
+    "data",
+    "candidates",
+    "culture",
+    "empowers",
+    "Amazonians",
+    "results",
+    "customers",
+    "disability",
+    "adjustment",
+    "application",
+    "hiring",
+    "process",
+    "support",
+    "interview",
+    "onboarding",
+    "process",
+    "ApplicantCandidate",
+    "Accommodation",
+    "Team",
+    "ACAT",
+    "Monday",
+    "Friday",
+    "GMT",
+    "pm",
+    "GMT",
+    "United",
+    "Kingdom",
+    "+44",
+    "Ireland",
+    "dial",
+    "+353",
+    "tel+489"
+  ],
+  "keyterms": [
+    [
+      "innovative technology",
+      0.1798075551124483
+    ],
+    [
+      "technical challenge",
+      0.09752915192971398
+    ],
+    [
+      "Computer Science",
+      0.05512106616645642
+    ],
+    [
+      "month internship",
+      0.04818565703595863
+    ],
+    [
+      "project",
+      0.029268012405223247
+    ],
+    [
+      "customer",
+      0.02713698734963108
+    ],
+    [
+      "environment",
+      0.024254344313406274
+    ],
+    [
+      "service",
+      0.021623058974845503
+    ],
+    [
+      "Amazon",
+      0.018306059931673065
+    ],
+    [
+      "scalable",
+      0.017654035991395298
+    ],
+    [
+      "software",
+      0.017199323945045166
+    ],
+    [
+      "team",
+      0.013901577744231603
+    ],
+    [
+      "world",
+      0.010239249857713878
+    ],
+    [
+      "development",
+      0.010097300027267515
+    ],
+    [
+      "system",
+      0.00988037548227306
+    ],
+    [
+      "day",
+      0.009724122433251388
+    ],
+    [
+      "experienced",
+      0.009570879631373012
+    ],
+    [
+      "design",
+      0.009509974719505878
+    ],
+    [
+      "good",
+      0.009342340241556392
+    ],
+    [
+      "personal",
+      0.009131668163464736
+    ]
+  ],
+  "name": [
+    "DESCRIPTION\nDo"
+  ],
+  "phones": [],
+  "pos_frequencies": {
+    "ADJ": 68,
+    "ADP": 80,
+    "ADV": 17,
+    "AUX": 28,
+    "CCONJ": 37,
+    "DET": 47,
+    "INTJ": 5,
+    "NOUN": 189,
+    "NUM": 10,
+    "PART": 24,
+    "PRON": 56,
+    "PROPN": 44,
+    "PUNCT": 1,
+    "SCONJ": 10,
+    "SPACE": 38,
+    "SYM": 2,
+    "VERB": 104
+  },
+  "resume_data": "\nDESCRIPTION\nDo you want to solve business challenges through innovative technology? Do you enjoy working on cutting-edge, scalable services technology in a team environment? Do you like working on industry-defining projects that move the needle?\n\nAt Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our interns write real software and collaborate with a selected group of experienced software development engineers who help interns on projects that matter to our customers.\n\nWe want to you to feel welcomed, included and valued right from the start. Every day will be filled with exciting new challenges, developing new skills, and achieving personal growth. How often can you say that your work changes the world? At Amazon, you’ll say it often. Join us and define tomorrow.\n\nWe have two different internship durations available:\n- 3 months internship\n- 6 months internship\n\nPlease ensure to indicate your availability during the application process.\n\n\nKey job responsibilities\n- Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring to market innovative products and services.\n- Design and build innovative technologies in a large distributed computing environment and help lead fundamental changes in the industry.\n- Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.\n- Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.\n- Work in an agile environment to deliver high quality software.\n\n\nA day in the life\nAs an intern, you will be matched to a manager and a mentor. You will have the opportunity to influence the evolution of Amazon technology and lead mission critical projects early in your career. Your design, code, and raw smarts will contribute to solving some of the most complex technical challenges in the areas of distributed systems, data mining, automation, optimisation, scalability, and security – just to name a few.\n\nIn addition to working on an impactful project, you will have the opportunity to engage with Amazonians for both personal and professional development, expand your network, and participate in activities with other interns throughout your internship. No matter the location of your internship, we give you the tools to own your project and learn in a real-world setting. Many of our technologies overlap, and you would be hard pressed to find a team that is not using Amazon Web Services (AWS), touching the catalogue, or iterating services to better personalise for customers. We make the impossible, possible.\n\nWe are open to hiring candidates to work out of one of the following locations:\n\nLondon, GBR\n\nBASIC QUALIFICATIONS\n- Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related fields at time of application\n- Although no specific programming language is required – you should be familiar with the syntax of languages such as Java, C/C++, or Python\n- Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving and complexity analysis\n\nPREFERRED QUALIFICATIONS\n- Previous technical internship(s) if applicable\n- Experience with distributed, multi-tiered systems, algorithms, and relational databases\n- Experience in optimization mathematics such as linear programming and nonlinear optimisation\n- Ability to effectively articulate technical challenges and solutions\n- Adept at handling ambiguous or undefined problems as well as ability to think abstractly\n\n\nAmazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://www.amazon.jobs/en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.\n\nOur inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need an adjustment during the application and hiring process, including support for the interview or onboarding process, please contact the Applicant-Candidate Accommodation Team (ACAT), Monday through Friday from 7:00 am GMT - 4:00 pm GMT. If calling directly from the United Kingdom, please dial +44 800 086 9884 (tel:+448000869884). If calling from Ireland, please dial +353 1800 851 489 (tel:+3531800851489).\n\n",
+  "tri_grams": "[want to solve, solve business challenges, challenges through innovative, working on cuttingedge, cuttingedge scalable services, scalable services technology, working on industrydefining, Amazon we hire, hire the best, minds in technology, technology to innovate, innovate and build, build on behalf, customers The intense, DNA Our interns, interns write real, write real software, software and collaborate, group of experienced, experienced software development, software development engineers, engineers who help, interns on projects, projects that matter, feel welcomed included, included and valued, start Every day, filled with exciting, exciting new challenges, new challenges developing, challenges developing new, developing new skills, skills and achieving, achieving personal growth, changes the world, world At Amazon, different internship durations, internship durations available, ensure to indicate, indicate your availability, Key job responsibilities, Collaborate with experienced, experienced crossdisciplinary Amazonians, Amazonians to conceive, design and bring, bring to market, market innovative products, products and services, Design and build, build innovative technologies, large distributed computing, distributed computing environment, environment and help, help lead fundamental, lead fundamental changes, solutions to run, predictions on distributed, systems with exposure, exposure to innovative, technologies at incredible, scale and speed, Build distributed storage, distributed storage index, index and query, scalable faulttolerant low, faulttolerant low cost, cost and easy, easy to manage, environment to deliver, deliver high quality, high quality software, opportunity to influence, influence the evolution, evolution of Amazon, technology and lead, lead mission critical, mission critical projects, critical projects early, career Your design, code and raw, smarts will contribute, contribute to solving, complex technical challenges, areas of distributed, distributed systems data, systems data mining, data mining automation, mining automation optimisation, automation optimisation scalability, scalability and security, addition to working, opportunity to engage, engage with Amazonians, personal and professional, professional development expand, expand your network, network and participate, participate in activities, internship No matter, matter the location, project and learn, pressed to find, find a team, Amazon Web Services, Web Services AWS, Services AWS touching, touching the catalogue, catalogue or iterating, services to better, personalise for customers, open to hiring, candidates to work, Master’s Degree, Degree in Computer, Computer Science Computer, Science Computer Engineering, Engineering or related, fields at time, time of application, specific programming language, language is required, syntax of languages, C++ or Python, Knowledge of Computer, Computer Science fundamentals, objectoriented design algorithm, design algorithm design, algorithm design data, design data structures, data structures problem, structures problem solving, solving and complexity, Previous technical internships, internships if applicable, Experience with distributed, distributed multitiered systems, multitiered systems algorithms, algorithms and relational, Experience in optimization, programming and nonlinear, Ability to effectively, effectively articulate technical, articulate technical challenges, challenges and solutions, Adept at handling, ambiguous or undefined, ability to think, equal opportunities employer, employer We believe, passionately that employing, employing a diverse, workforce is central, recruiting decisions based, experience and skills, skills We value, value your passion, passion to discover, discover invent simplify, simplify and build, Protecting your privacy, longstanding top priority, priority for Amazon, Amazon Please consult, consult our Privacy, use and transfer, transfer the personal, inclusive culture empowers, culture empowers Amazonians, Amazonians to deliver, deliver the best, disability and need, need an adjustment, application and hiring, hiring process including, process including support, interview or onboarding, process please contact, contact the ApplicantCandidate, ApplicantCandidate Accommodation Team, Accommodation Team ACAT, Team ACAT Monday, Monday through Friday, GMT If calling, Kingdom please dial, tel+84 If calling, calling from Ireland, Ireland please dial]",
+  "unique_id": "5af9c245-95bc-44bb-bd07-9877da1dfcbb",
+  "years": [],
+  "JobId": "AXIS803026",
+  "JobTitle": "Trainer"
+},
+{
+  "_id": {
+    "$oid": "64db2a33775a6db3b26ae6d9"
+  },
+  "bi_grams": "[Loan Officer, Loan Department, Loan Manager, Loan Officer, servicing loans, includes qualifying, qualifying borrowers, borrowers underwriting, underwriting loans, loans closing, closing loans, servicing loans, Loan Officer, work independently, Qualify borrowers, verifying financial, financial information, information credit, credit history, employment history, Underwrite loans, analyzing financial, financial information, credit history, Close loans, preparing loan, loan documents, documents obtaining, obtaining signatures, Service loans, collecting payments, borrower handling, handling escrow, escrow payments, borrower inquiries, Maintain relationships, referral sources, Stay uptodate, lending regulations, industry trends, finance business, related field, + years, lending industry, Strong analytical, problemsolving skills, Excellent communication, interpersonal skills, work independently, Microsoft Office, Office Suite, loan origination, origination software, Competitive salary, experienced professionals, cover letter, email protected]",
+  "clean_data": "Loan Officer\n\nDepartment: Loan Department\n\nReports To: Loan Manager\n\nSummary:\n\nThe Loan Officer is responsible for originating and servicing loans for the company This includes qualifying borrowers underwriting loans closing loans and servicing loans after closing The Loan Officer must be able to work independently and as part of a team\n\nResponsibilities:\n\n Qualify borrowers for loans by collecting and verifying financial information credit history and employment history\n Underwrite loans by analyzing financial information and credit history to determine the borrower's ability to repay the loan\n Close loans by preparing loan documents obtaining signatures from the borrower and lender and funding the loan\n Service loans after closing by collecting payments from the borrower handling escrow payments and responding to borrower inquiries\n Maintain relationships with borrowers and referral sources\n Stay uptodate on changes in lending regulations and industry trends\n\nQualifications:\n\n Bachelor's degree in finance business or a related field\n 5+ years of experience in the lending industry\n Strong analytical and problemsolving skills\n Excellent communication and interpersonal skills\n Ability to work independently and as part of a team\n Proficiency in Microsoft Office Suite and loan origination software\n\nBenefits:\n\n Competitive salary and benefits\n Opportunity to work with a team of experienced professionals\n Chance to make a difference in the lives of your clients\n\nTo Apply:\n\nPlease submit your resume and cover letter to [email protected",
+  "emails": [],
+  "entities": [
+    "Microsoft Office",
+    "The Loan Officer",
+    "Department Loan Department"
+  ],
+  "experience": "Summary \n\n The Loan Officer is responsible for originating and servicing loans for the company This includes qualifying borrowers underwriting loans closing loans and servicing loans after closing The Loan Officer must be able to work independently and as part of a team \n\n Responsibilities \n\n  Qualify borrowers for loans by collecting and verifying financial information credit history and employment history \n  Underwrite loans by analyzing financial information and credit history to determine the borrower 's ability to repay the loan \n  Close loans by preparing loan documents obtaining signatures from the borrower and lender and funding the loan \n  Service loans after closing by collecting payments from the borrower handling escrow payments and responding to borrower inquiries \n  Maintain relationships with borrowers and referral sources \n  Stay uptodate on changes in lending regulations and industry trends \n\n Qualifications \n\n  Bachelor 's degree in finance business or a related field \n  5 + years of experience in the lending industry \n  Strong analytical and problemsolving skills \n  Excellent communication and interpersonal skills \n  Ability to work independently and as part of a team \n  Proficiency in Microsoft Office Suite and loan origination software \n\n Benefits \n\n  Competitive salary and benefits \n  Opportunity to work with a team of experienced professionals \n  Chance to make a difference in the lives of your clients \n\n To Apply \n\n Please submit your resume and cover letter to [ email protected",
+  "extracted_keywords": [
+    "Loan",
+    "Officer",
+    "Department",
+    "Loan",
+    "Department",
+    "Loan",
+    "Manager",
+    "Summary",
+    "Loan",
+    "Officer",
+    "servicing",
+    "loans",
+    "company",
+    "borrowers",
+    "underwriting",
+    "loans",
+    "loans",
+    "servicing",
+    "loans",
+    "Loan",
+    "Officer",
+    "part",
+    "team",
+    "Responsibilities",
+    "borrowers",
+    "loans",
+    "information",
+    "credit",
+    "history",
+    "employment",
+    "history",
+    "Underwrite",
+    "loans",
+    "information",
+    "credit",
+    "history",
+    "borrower",
+    "ability",
+    "loan",
+    "loans",
+    "loan",
+    "documents",
+    "signatures",
+    "borrower",
+    "lender",
+    "loan",
+    "Service",
+    "loans",
+    "payments",
+    "borrower",
+    "escrow",
+    "payments",
+    "borrower",
+    "inquiries",
+    "relationships",
+    "borrowers",
+    "sources",
+    "changes",
+    "lending",
+    "regulations",
+    "industry",
+    "trends",
+    "Qualifications",
+    "Bachelor",
+    "degree",
+    "finance",
+    "business",
+    "field",
+    "years",
+    "experience",
+    "lending",
+    "industry",
+    "skills",
+    "communication",
+    "skills",
+    "Ability",
+    "part",
+    "team",
+    "Proficiency",
+    "Microsoft",
+    "Office",
+    "Suite",
+    "loan",
+    "origination",
+    "software",
+    "Benefits",
+    "salary",
+    "benefits",
+    "Opportunity",
+    "team",
+    "professionals",
+    "Chance",
+    "difference",
+    "lives",
+    "clients",
+    "resume",
+    "letter",
+    "email"
+  ],
+  "keyterms": [
+    [
+      "Loan Officer",
+      0.10330703087904047
+    ],
+    [
+      "interpersonal skill",
+      0.0929020961438031
+    ],
+    [
+      "excellent communication",
+      0.05294310911317335
+    ],
+    [
+      "financial information",
+      0.04780693805488618
+    ],
+    [
+      "credit history",
+      0.04611952505546999
+    ],
+    [
+      "strong analytical",
+      0.0412315562202748
+    ],
+    [
+      "lending industry",
+      0.03205142124999109
+    ],
+    [
+      "related field",
+      0.03082205529924232
+    ],
+    [
+      "finance business",
+      0.02611052617193891
+    ],
+    [
+      "industry trend",
+      0.02599280534543462
+    ],
+    [
+      "Loan Department",
+      0.025492033714085732
+    ],
+    [
+      "Underwrite loan",
+      0.023770274183323024
+    ],
+    [
+      "employment history",
+      0.023151056849999612
+    ],
+    [
+      "Loan Manager",
+      0.02260228107280783
+    ],
+    [
+      "lending regulation",
+      0.022190179538017944
+    ],
+    [
+      "referral source",
+      0.021308905937970163
+    ],
+    [
+      "borrower inquiry",
+      0.020538099651703667
+    ],
+    [
+      "loan document",
+      0.019940715285043153
+    ],
+    [
+      "Service loan",
+      0.018755762833373275
+    ],
+    [
+      "escrow payment",
+      0.018671512388737075
+    ]
+  ],
+  "name": [],
+  "phones": [],
+  "pos_frequencies": {
+    "ADJ": 14,
+    "ADP": 27,
+    "ADV": 2,
+    "AUX": 3,
+    "CCONJ": 18,
+    "DET": 15,
+    "INTJ": 1,
+    "NOUN": 79,
+    "NUM": 2,
+    "PART": 9,
+    "PRON": 3,
+    "PROPN": 21,
+    "PUNCT": 7,
+    "SCONJ": 1,
+    "SPACE": 24,
+    "VERB": 29,
+    "X": 1
+  },
+  "resume_data": "**Loan Officer**\n\n**Department:** Loan Department\n\n**Reports To:** Loan Manager\n\n**Summary:**\n\nThe Loan Officer is responsible for originating and servicing loans for the company. This includes qualifying borrowers, underwriting loans, closing loans, and servicing loans after closing. The Loan Officer must be able to work independently and as part of a team.\n\n**Responsibilities:**\n\n* Qualify borrowers for loans by collecting and verifying financial information, credit history, and employment history.\n* Underwrite loans by analyzing financial information and credit history to determine the borrower's ability to repay the loan.\n* Close loans by preparing loan documents, obtaining signatures from the borrower and lender, and funding the loan.\n* Service loans after closing by collecting payments from the borrower, handling escrow payments, and responding to borrower inquiries.\n* Maintain relationships with borrowers and referral sources.\n* Stay up-to-date on changes in lending regulations and industry trends.\n\n**Qualifications:**\n\n* Bachelor's degree in finance, business, or a related field.\n* 5+ years of experience in the lending industry.\n* Strong analytical and problem-solving skills.\n* Excellent communication and interpersonal skills.\n* Ability to work independently and as part of a team.\n* Proficiency in Microsoft Office Suite and loan origination software.\n\n**Benefits:**\n\n* Competitive salary and benefits.\n* Opportunity to work with a team of experienced professionals.\n* Chance to make a difference in the lives of your clients.\n\n**To Apply:**\n\nPlease submit your resume and cover letter to [email protected]",
+  "tri_grams": "[Officer is responsible, responsible for originating, originating and servicing, company This includes, includes qualifying borrowers, qualifying borrowers underwriting, borrowers underwriting loans, underwriting loans closing, loans closing loans, loans and servicing, loans after closing, closing The Loan, able to work, borrowers for loans, loans by collecting, collecting and verifying, verifying financial information, financial information credit, information credit history, history and employment, loans by analyzing, analyzing financial information, information and credit, history to determine, determine the borrower, borrower's ability, ability to repay, repay the loan, loans by preparing, preparing loan documents, loan documents obtaining, documents obtaining signatures, borrower and lender, lender and funding, funding the loan, loans after closing, closing by collecting, borrower handling escrow, handling escrow payments, payments and responding, responding to borrower, relationships with borrowers, borrowers and referral, uptodate on changes, changes in lending, regulations and industry, Bachelor's degree, degree in finance, years of experience, analytical and problemsolving, communication and interpersonal, Ability to work, Proficiency in Microsoft, Microsoft Office Suite, Suite and loan, loan origination software, salary and benefits, Opportunity to work, team of experienced, submit your resume, resume and cover]",
+  "unique_id": "22fe67dc-282c-4efb-bcf2-0ac7b77d5c24",
+  "years": [],
+  "JobId": "AXIS837533",
+  "JobTitle": "Loan Officer"
+},
+{
+  "_id": {
+    "$oid": "64db67a63bfbbfec79b91772"
+  },
+  "bi_grams": "[Software Developer, ideal candidate, strong background, software development, development experience, programming languages, excellent problemsolving, problemsolving skills, Develop software, software applications, programming languages, development team, design implement, test software, software applications, Conduct unit, unit testing, Deploy software, software applications, production environments, Provide technical, technical support, software applications, computer science, related field, + years, software development, Strong programming, programming skills, Java Python, Python C++, software development, development methodologies, Excellent problemsolving, debugging skills, Strong communication, teamwork skills, Competitive salary, cuttingedge technology, talented engineers, dynamic environment]",
+  "clean_data": "We are looking for a Software Developer to join our team The ideal candidate will have a strong background in software development experience with a variety of programming languages and technologies and excellent problemsolving skills\n\nResponsibilities\n\n Develop software applications using a variety of programming languages and technologies\n Work with other members of the development team to design implement and test software applications\n Conduct unit testing and debugging to ensure that the software is free of defects\n Deploy software applications to production environments\n Provide technical support to users of the software applications\n\nQualifications\n\n Bachelor's degree in computer science or a related field\n 5+ years of experience in software development\n Strong programming skills in a variety of languages and technologies such as Java Python C++ and SQL\n Experience with software development methodologies and tools\n Excellent problemsolving and debugging skills\n Strong communication and teamwork skills\n\nBenefits\n\n Competitive salary and benefits\n Opportunity to work on cuttingedge technology\n Chance to collaborate with talented engineers\n Work in a fastpaced and dynamic environment\n\nCTC \n24LPA\n\n\n  ",
+  "emails": [],
+  "entities": [
+    "SQL\n ",
+    "a Software Developer"
+  ],
+  "experience": "Experience with software development methodologies and tools \n  Excellent problemsolving and debugging skills \n  Strong communication and teamwork skills \n\n Benefits \n\n  Competitive salary and benefits \n  Opportunity to work on cuttingedge technology \n  Chance to collaborate with talented engineers \n  Work in a fastpaced and dynamic environment \n\n CTC \n 24LPA \n\n\n  ",
+  "extracted_keywords": [
+    "Software",
+    "Developer",
+    "team",
+    "candidate",
+    "background",
+    "software",
+    "development",
+    "experience",
+    "variety",
+    "programming",
+    "languages",
+    "technologies",
+    "skills",
+    "Responsibilities",
+    "software",
+    "applications",
+    "variety",
+    "programming",
+    "languages",
+    "technologies",
+    "Work",
+    "members",
+    "development",
+    "team",
+    "implement",
+    "test",
+    "software",
+    "applications",
+    "Conduct",
+    "unit",
+    "testing",
+    "software",
+    "defects",
+    "software",
+    "applications",
+    "production",
+    "environments",
+    "support",
+    "users",
+    "software",
+    "applications",
+    "Qualifications",
+    "Bachelor",
+    "degree",
+    "computer",
+    "science",
+    "field",
+    "years",
+    "experience",
+    "software",
+    "development",
+    "programming",
+    "skills",
+    "variety",
+    "languages",
+    "technologies",
+    "Java",
+    "Python",
+    "C++",
+    "SQL",
+    "Experience",
+    "software",
+    "development",
+    "methodologies",
+    "tools",
+    "debugging",
+    "skills",
+    "communication",
+    "teamwork",
+    "skills",
+    "Benefits",
+    "salary",
+    "benefits",
+    "Opportunity",
+    "cuttingedge",
+    "technology",
+    "Chance",
+    "engineers",
+    "environment",
+    "CTC",
+    "24LPA"
+  ],
+  "keyterms": [
+    [
+      "software development methodology",
+      0.1355204636900632
+    ],
+    [
+      "test software application",
+      0.09232344542069683
+    ],
+    [
+      "Java Python C++",
+      0.08261882493633642
+    ],
+    [
+      "Develop software application",
+      0.0793078577341506
+    ],
+    [
+      "strong programming skill",
+      0.06584541960691989
+    ],
+    [
+      "excellent problemsolving skill",
+      0.056662403794488975
+    ],
+    [
+      "software development experience",
+      0.047829473925573435
+    ],
+    [
+      "programming language",
+      0.04240459455681355
+    ],
+    [
+      "development team",
+      0.016937974241410168
+    ],
+    [
+      "Conduct unit",
+      0.016119510422753645
+    ],
+    [
+      "technology",
+      0.015833939129536203
+    ],
+    [
+      "strong background",
+      0.015454993761494205
+    ],
+    [
+      "variety",
+      0.01452266316214006
+    ],
+    [
+      "ideal candidate",
+      0.01446195335245722
+    ],
+    [
+      "Software developer",
+      0.014027336876036522
+    ],
+    [
+      "technical support",
+      0.013796484872873115
+    ],
+    [
+      "production environment",
+      0.013597769236260222
+    ],
+    [
+      "related field",
+      0.012433261067420837
+    ],
+    [
+      "computer science",
+      0.012141338854676588
+    ],
+    [
+      "teamwork skill",
+      0.008159910735758766
+    ]
+  ],
+  "name": [],
+  "phones": [],
+  "pos_frequencies": {
+    "ADJ": 15,
+    "ADP": 20,
+    "AUX": 3,
+    "CCONJ": 13,
+    "DET": 11,
+    "NOUN": 69,
+    "NUM": 2,
+    "PART": 6,
+    "PRON": 2,
+    "PROPN": 12,
+    "SCONJ": 2,
+    "SPACE": 21,
+    "VERB": 15
+  },
+  "resume_data": "We are looking for a Software Developer to join our team. The ideal candidate will have a strong background in software development, experience with a variety of programming languages and technologies, and excellent problem-solving skills.\n\n**Responsibilities**\n\n* Develop software applications using a variety of programming languages and technologies\n* Work with other members of the development team to design, implement, and test software applications\n* Conduct unit testing and debugging to ensure that the software is free of defects\n* Deploy software applications to production environments\n* Provide technical support to users of the software applications\n\n**Qualifications**\n\n* Bachelor's degree in computer science or a related field\n* 5+ years of experience in software development\n* Strong programming skills in a variety of languages and technologies, such as Java, Python, C++, and SQL\n* Experience with software development methodologies and tools\n* Excellent problem-solving and debugging skills\n* Strong communication and teamwork skills\n\n**Benefits**\n\n* Competitive salary and benefits\n* Opportunity to work on cutting-edge technology\n* Chance to collaborate with talented engineers\n* Work in a fast-paced and dynamic environment\n\n**CTC** \n24LPA\n\n\n  ",
+  "tri_grams": "[Developer to join, join our team, team The ideal, background in software, software development experience, variety of programming, languages and technologies, technologies and excellent, excellent problemsolving skills, Develop software applications, variety of programming, languages and technologies, team to design, implement and test, test software applications, Conduct unit testing, testing and debugging, debugging to ensure, software is free, free of defects, Deploy software applications, applications to production, Provide technical support, support to users, Bachelor's degree, degree in computer, years of experience, experience in software, Strong programming skills, variety of languages, languages and technologies, Java Python C++, C++ and SQL, Experience with software, software development methodologies, methodologies and tools, problemsolving and debugging, communication and teamwork, salary and benefits, Opportunity to work, work on cuttingedge, Chance to collaborate, collaborate with talented, fastpaced and dynamic]",
+  "unique_id": "c589c4a4-7df8-44fe-b834-a7708d6a61a8",
+  "years": [],
+  "JobId": "AXIS243779",
+  "JobTitle": "Software Developer"
+}]
